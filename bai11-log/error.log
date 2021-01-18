@@ -1,0 +1,9 @@
+[Thu Jan 14 08:40:02.481814 2021] [ssl:warn] [pid 11712:tid 556] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Jan 14 08:40:02.550819 2021] [ssl:warn] [pid 11712:tid 556] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Jan 14 08:40:02.597692 2021] [mpm_winnt:notice] [pid 11712:tid 556] AH00455: Apache/2.4.46 (Win64) OpenSSL/1.1.1h PHP/8.0.0 configured -- resuming normal operations
+[Thu Jan 14 08:40:02.597692 2021] [mpm_winnt:notice] [pid 11712:tid 556] AH00456: Apache Lounge VS16 Server built: Oct  2 2020 11:45:39
+[Thu Jan 14 08:40:02.597692 2021] [core:notice] [pid 11712:tid 556] AH00094: Command line: 'C:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
+[Thu Jan 14 08:40:02.597692 2021] [mpm_winnt:notice] [pid 11712:tid 556] AH00418: Parent: Created child process 14708
+[Thu Jan 14 08:40:04.507520 2021] [ssl:warn] [pid 14708:tid 560] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Jan 14 08:40:04.574530 2021] [ssl:warn] [pid 14708:tid 560] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Jan 14 08:40:04.627908 2021] [mpm_winnt:notice] [pid 14708:tid 560] AH00354: Child: Starting 150 worker threads.
